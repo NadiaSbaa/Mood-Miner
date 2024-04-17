@@ -6,3 +6,4 @@ tokenizers
 flask
 scikit-learn
 gunicorn
+pytest
