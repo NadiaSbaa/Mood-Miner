@@ -1,0 +1,6 @@
+2024-04-17 20:27:46 INFO     Request received - Text: I love talking to you., Sentiment: positive
+2024-04-17 20:27:47 INFO     Prediction made - Selected Text:  love talking to you
+2024-04-17 20:29:19 INFO     Request received - Text: I love talking to you., Sentiment: None
+2024-04-17 20:29:19 ERROR    Validation error: Missing / Empty parameter: sentiment
+2024-04-17 20:29:26 INFO     Request received - Text: I love talking to you., Sentiment: pos
+2024-04-17 20:29:26 ERROR    Validation error: Invalid sentiment value. Sentiment can be positive, negative or neutral
