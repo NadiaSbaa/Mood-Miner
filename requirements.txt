@@ -1,0 +1,9 @@
+transformers
+tensorflow
+pandas
+numpy
+tokenizers
+flask
+scikit-learn
+gunicorn
+pytest
