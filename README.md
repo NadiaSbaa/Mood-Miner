@@ -1,4 +1,4 @@
-# Coding Challenge MLE
+# MoodMiner
 
 ## Einführung
 
@@ -87,7 +87,7 @@ Die Anwendung protokolliert wichtige Ereignisse in einer Datei namens `api.log`,
 4. [ ] Hinzufügen weiterer Logiktests
 
 
-# Coding Challenge MLE
+# MoodMiner
 
 ## Introduction
 
